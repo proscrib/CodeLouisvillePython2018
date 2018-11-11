@@ -29,6 +29,6 @@
 <p></p>
 
 <h2>The Question</h2>
-<p></p>
+<p>How many federally run campgrounds are tent or tent-only campsites?</p>
 
 </div>
