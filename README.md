@@ -1,5 +1,5 @@
-<div style="background: #f0f0f0;"
 # Code Louisville Python 2018
+<div style="background: #f0f0f0;">
 <hr />
 <a href="mailto:toshcaw.proscrib@gmail.com">Toshca Williams</a>
 <hr />
