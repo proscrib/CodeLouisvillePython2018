@@ -12,16 +12,16 @@
 <h3>To Install</h3>
 <p>&bull; Python 3 (version 3.6.4)</p>
 <h4>Tools</h4>
-<table bgcolor="#f9f9f9" width="100%" cellspacing="0" cellpadding="0" border="0">
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
    <tr>
       <td bgcolor="#f4f4f4"><a href="https://www.anaconda.com/download" target="_blank">Anaconda</a></td>
       <td bgcolor="#ffffff"><a href="http://jupyter.org/install" target="_blank">Jupyter</a></td>
       <td bgcolor="#f4f4f4"><a href="https://matplotlib.org/users/installing.html" target="_blank">Matplotlib.pyplot</a></td>
    </tr>
    <tr>
-      <td bgcolor="#ffffff"><a href="https://www.tutorialspoint.com/sqlite/sqlite_installation.htm" target="_blank">SQLite3</a></td>
-      <td bgcolor="#f4f4f4"><a href="https://pandas.pydata.org/" target="_blank">Pandas</a></td>
-      <td bgcolor="#ffffff"><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a></td>
+      <td bgcolor="#f4f4f4"><a href="https://www.tutorialspoint.com/sqlite/sqlite_installation.htm" target="_blank">SQLite3</a></td>
+      <td bgcolor="#ffffff"><a href="https://pandas.pydata.org/" target="_blank">Pandas</a></td>
+      <td bgcolor="#f4f4f4"><a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">Markdown Cheatsheet</a></td>
    </tr>
 </table>
 
