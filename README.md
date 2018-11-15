@@ -10,7 +10,7 @@
 <hr />
 <p>I would like to show the total number of federally run campsites in the United States and then how many of those accepts tents. I was able to pull a dataset from <a href="https://www.kaggle.com/cypranowska/us-campsites">Kaggle</a></p>
 
-<h6>Tools</h6>
+<h4>Tools</h4>
 <p>Python (version 2.7.13)</p>
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
    <tr>
