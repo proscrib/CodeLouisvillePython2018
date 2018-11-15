@@ -4,7 +4,7 @@
 <h2>The Question</h2>
 <p>How many federally run campgrounds allow tents?</p>
 <p>I would like to accomplish this by pulling the data from a table and creating one or more visuals</p>
-<img src="https://github.com/proscrib/CodeLouisvillePython2018/blob/master/tent_bgd.jpeg" width="200" height="200" />
+<img src="https://github.com/proscrib/CodeLouisvillePython2018/blob/master/tent_bgd.jpeg" width="300" height="200" />
 <hr />
 <a href="mailto:toshcaw.proscrib@gmail.com">Toshca Williams</a>
 <hr />
