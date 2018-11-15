@@ -1,5 +1,10 @@
 # Code Louisville Python 2018
 <div style="background: #f0f0f0;">
+
+<h2>The Question</h2>
+<p>How many federally run campgrounds allow tents?</p>
+<p>I would like to accomplish this by pulling the data from a table and creating one or more visuals</p>
+<img src="" width="200" height="200" />
 <hr />
 <a href="mailto:toshcaw.proscrib@gmail.com">Toshca Williams</a>
 <hr />
@@ -28,7 +33,6 @@
 <h3>To Run</h3>
 <p></p>
 
-<h2>The Question</h2>
-<p>How many federally run campgrounds are tent or tent-only campsites?</p>
+
 
 </div>
