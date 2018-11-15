@@ -3,7 +3,7 @@
 <h2>Final Project</h2>
 <h3>About my project</h3>
 
-<p><strong>The Question</strong> - How many federally run campgrounds allow tents?</p>
+<p><strong>The Question</strong> - How many federally run campgrounds allow tents? Why do I want to know this, because I do not own an RV and sometimes a girl just wants to become one with nature, so cabin is out. I can just stay home for that.</p>
 <img src="https://github.com/proscrib/CodeLouisvillePython2018/blob/master/tent_bgd.jpeg" width="300" height="200" />
 <hr />
 <a href="mailto:toshcaw.proscrib@gmail.com">Toshca Williams</a>
